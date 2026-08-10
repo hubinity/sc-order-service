@@ -1,5 +1,5 @@
-# Default owners — every PR pings DevOps unless a more specific rule below matches.
-*                       @hubinity/devops
+# Default owners — every PR pings Backend unless a more specific rule below matches.
+*                       @hubinity/backend @hubinity/devops
 
 # Backend (Java / Spring Boot)
 pom.xml                 @hubinity/backend @hubinity/devops
